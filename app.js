@@ -1,1 +1,3 @@
-console.log("Hola")
+const numero = 3
+
+console.log(numero)
